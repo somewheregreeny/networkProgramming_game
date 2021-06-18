@@ -1,0 +1,30 @@
+﻿  main.c
+C:\Users\syxoxoxoxo\Desktop\testproject\server\server\main.c(83,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\syxoxoxoxo\Desktop\testproject\server\server\main.c(132,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\syxoxoxoxo\Desktop\testproject\server\server\main.c(145,69): warning C4133: '함수': 'int *'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\syxoxoxoxo\Desktop\testproject\server\server\main.c(150,46): warning C4133: '함수': 'int *'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\syxoxoxoxo\Desktop\testproject\server\server\main.c(165,69): warning C4133: '함수': 'int *'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\syxoxoxoxo\Desktop\testproject\server\server\main.c(175,25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\syxoxoxoxo\Desktop\testproject\server\server\main.c(176,44): warning C4133: '함수': 'int *'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\syxoxoxoxo\Desktop\testproject\server\server\main.c(217,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\syxoxoxoxo\Desktop\testproject\server\server\main.c(220,45): warning C4133: '함수': 'int *'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\syxoxoxoxo\Desktop\testproject\server\server\main.c(230,42): warning C4133: '함수': 'int [20]'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\syxoxoxoxo\Desktop\testproject\server\server\main.c(160,1): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winsock2.h(1849): message : 'inet_ntoa' 선언을 참조하십시오.
+C:\Users\syxoxoxoxo\Desktop\testproject\server\server\main.c(168,1): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winsock2.h(1849): message : 'inet_ntoa' 선언을 참조하십시오.
+C:\Users\syxoxoxoxo\Desktop\testproject\server\server\main.c(87,32): warning C4101: 'clientaddr' :참조되지 않은 지역 변수입니다.
+C:\Users\syxoxoxoxo\Desktop\testproject\server\server\main.c(94,6): warning C4101: 'addrlen' :참조되지 않은 지역 변수입니다.
+C:\Users\syxoxoxoxo\Desktop\testproject\server\server\main.c(273,44): warning C4047: '함수': 'char *'의 간접 참조 수준이 'int (*)[20]'과(와) 다릅니다.
+C:\Users\syxoxoxoxo\Desktop\testproject\server\server\main.c(273,44): warning C4024: 'recv': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\syxoxoxoxo\Desktop\testproject\server\server\main.c(376,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\syxoxoxoxo\Desktop\testproject\server\server\main.c(377,39): warning C4133: '함수': 'int [20]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\syxoxoxoxo\Desktop\testproject\server\server\main.c(388,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\syxoxoxoxo\Desktop\testproject\server\server\main.c(389,48): warning C4133: '함수': 'int [3]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\syxoxoxoxo\Desktop\testproject\server\server\main.c(398,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\syxoxoxoxo\Desktop\testproject\server\server\main.c(399,48): warning C4133: '함수': 'int [3]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\syxoxoxoxo\Desktop\testproject\server\server\main.c(418,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\syxoxoxoxo\Desktop\testproject\server\server\main.c(419,39): warning C4133: '함수': 'int [20]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\syxoxoxoxo\Desktop\testproject\server\server\main.c(427,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\syxoxoxoxo\Desktop\testproject\server\server\main.c(428,40): warning C4133: '함수': 'int [2]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+  server.vcxproj -> C:\Users\syxoxoxoxo\Desktop\testproject\server\Debug\server.exe

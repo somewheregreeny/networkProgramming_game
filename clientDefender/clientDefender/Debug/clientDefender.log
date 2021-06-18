@@ -1,0 +1,51 @@
+﻿  main.c
+C:\Users\syxoxoxoxo\Desktop\testproject\clientDefender\clientDefender\main.c(9,1): warning C4005: 'WIDTH': 매크로 재정의
+C:\Users\syxoxoxoxo\Desktop\testproject\clientDefender\clientDefender\console.h(1): message : 'WIDTH'의 이전 정의를 참조하십시오.
+C:\Users\syxoxoxoxo\Desktop\testproject\clientDefender\clientDefender\main.c(10,1): warning C4005: 'HEIGHT': 매크로 재정의
+C:\Users\syxoxoxoxo\Desktop\testproject\clientDefender\clientDefender\console.h(2): message : 'HEIGHT'의 이전 정의를 참조하십시오.
+C:\Users\syxoxoxoxo\Desktop\testproject\clientDefender\clientDefender\main.c(153,21): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\syxoxoxoxo\Desktop\testproject\clientDefender\clientDefender\main.c(187,42): warning C4133: '함수': 'int *'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\syxoxoxoxo\Desktop\testproject\clientDefender\clientDefender\main.c(195,52): warning C4133: '함수': 'int *'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\syxoxoxoxo\Desktop\testproject\clientDefender\clientDefender\main.c(216,34): warning C4013: '_beginthreadex'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\syxoxoxoxo\Desktop\testproject\clientDefender\clientDefender\main.c(216,70): warning C4047: '=': 'HANDLE'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\syxoxoxoxo\Desktop\testproject\clientDefender\clientDefender\main.c(175,1): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winsock2.h(1831): message : 'inet_addr' 선언을 참조하십시오.
+C:\Users\syxoxoxoxo\Desktop\testproject\clientDefender\clientDefender\main.c(279,47): warning C4133: '함수': 'int *'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\syxoxoxoxo\Desktop\testproject\clientDefender\clientDefender\main.c(284,47): warning C4133: '함수': 'int *'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\syxoxoxoxo\Desktop\testproject\clientDefender\clientDefender\main.c(289,47): warning C4133: '함수': 'int *'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\syxoxoxoxo\Desktop\testproject\clientDefender\clientDefender\main.c(297,37): warning C4047: '함수': 'char *'의 간접 참조 수준이 'int (*)[20]'과(와) 다릅니다.
+C:\Users\syxoxoxoxo\Desktop\testproject\clientDefender\clientDefender\main.c(297,37): warning C4024: 'recv': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\syxoxoxoxo\Desktop\testproject\clientDefender\clientDefender\main.c(307,48): warning C4133: '함수': 'int [3]'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\syxoxoxoxo\Desktop\testproject\clientDefender\clientDefender\main.c(314,48): warning C4133: '함수': 'int [3]'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\syxoxoxoxo\Desktop\testproject\clientDefender\clientDefender\main.c(324,37): warning C4047: '함수': 'char *'의 간접 참조 수준이 'int (*)[20]'과(와) 다릅니다.
+C:\Users\syxoxoxoxo\Desktop\testproject\clientDefender\clientDefender\main.c(324,37): warning C4024: 'recv': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\syxoxoxoxo\Desktop\testproject\clientDefender\clientDefender\main.c(339,38): warning C4047: '함수': 'char *'의 간접 참조 수준이 'int (*)[2]'과(와) 다릅니다.
+C:\Users\syxoxoxoxo\Desktop\testproject\clientDefender\clientDefender\main.c(339,38): warning C4024: 'recv': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\syxoxoxoxo\Desktop\testproject\clientDefender\clientDefender\main.c(350,36): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\syxoxoxoxo\Desktop\testproject\clientDefender\clientDefender\main.c(381,35): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\syxoxoxoxo\Desktop\testproject\clientDefender\clientDefender\main.c(378,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+C:\Users\syxoxoxoxo\Desktop\testproject\clientDefender\clientDefender\main.c(379,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+C:\Users\syxoxoxoxo\Desktop\testproject\clientDefender\clientDefender\main.c(380,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+C:\Users\syxoxoxoxo\Desktop\testproject\clientDefender\clientDefender\main.c(396,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+C:\Users\syxoxoxoxo\Desktop\testproject\clientDefender\clientDefender\main.c(399,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+C:\Users\syxoxoxoxo\Desktop\testproject\clientDefender\clientDefender\main.c(402,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+C:\Users\syxoxoxoxo\Desktop\testproject\clientDefender\clientDefender\main.c(407,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+C:\Users\syxoxoxoxo\Desktop\testproject\clientDefender\clientDefender\main.c(410,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+C:\Users\syxoxoxoxo\Desktop\testproject\clientDefender\clientDefender\main.c(415,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+C:\Users\syxoxoxoxo\Desktop\testproject\clientDefender\clientDefender\main.c(418,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+C:\Users\syxoxoxoxo\Desktop\testproject\clientDefender\clientDefender\main.c(423,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+C:\Users\syxoxoxoxo\Desktop\testproject\clientDefender\clientDefender\main.c(426,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+C:\Users\syxoxoxoxo\Desktop\testproject\clientDefender\clientDefender\main.c(267): warning C4715: 'cursorSelect': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  clientDefender.vcxproj -> C:\Users\syxoxoxoxo\Desktop\testproject\clientDefender\Debug\clientDefender.exe
