@@ -4,7 +4,7 @@
 
 sample에 참고한 코드와 내가 그걸 수정해서 이것저것 만진 코드가 있음
 
-server 실행후 clientdefender 하나와 clientattack 세개가 접속하면 게임 시작
+server 실행후 clientDefender(오타나있음) 하나와 clienAattack 세개가 접속하면 게임 시작
 
 해결 못한 점
 
